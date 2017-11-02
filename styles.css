@@ -1,0 +1,20 @@
+body {
+    background-color: HoneyDew  ;
+}
+h1{
+    background-color: MediumTurquoise; 
+    text-align: center;
+    font-family: Italic;
+    margin-left:20px;
+	color:white;
+}
+
+#contentB{
+   text-align: center;
+   font-family: Italic;
+}
+
+#results{
+    font-family: Italic;
+    text-align: center;
+}
